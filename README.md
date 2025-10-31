@@ -2,6 +2,8 @@
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/garimaakashyap/numpy/blob/main/g_numpy.ipynb)
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/garimaakashyap/numpy/blob/main/Numpy.ipynb)
+
 ## 📘 Overview
 
 This repository contains a Jupyter/Colab notebook `g_numpy.ipynb` where I have learned the **fundamentals of NumPy**, the core library for numerical computing in Python. It covers array creation, operations, and important techniques used in data science and scientific computing.
